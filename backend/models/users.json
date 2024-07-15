@@ -1,0 +1,14 @@
+[
+    {
+        "id": "5ffa88f2-5bb1-44f5-acfb-1a6cdfa7f9f7",
+        "username": "temurxon",
+        "email": "temurxonsharifxonov@gmail.com",
+        "hashPassword": "$2a$12$kGjVrhjirQQeUT9aJ1W0ce3mIqobF6x0NeNdX5IoZfTDxkmQv2E52"
+    },
+    {
+        "id": "449f628a-ccd5-486c-82de-418c7699f9bd",
+        "username": "temur",
+        "email": "parzifalgame@gmail.com",
+        "hashPassword": "$2a$12$d0/k//CV2qsmw/a.BlwKmuYiBqnZmJJc2kdYjZoR5Zi/LwvnluIlG"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": "e2077d5e-537e-4baa-8b77-850eae449285",
+        "title": "matematika",
+        "price": "200000",
+        "author": "john",
+        "img": ""
+    },
+    {
+        "id": "3d40f7f6-dcce-4f45-9211-af86c8aec0c9",
+        "title": "ona tili",
+        "price": "300000",
+        "author": "Ezoza",
+        "img": ""
+    }
+]
